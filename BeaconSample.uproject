@@ -1,0 +1,17 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{402E9A93-483F-2705-80A7-C09DEAFC6341}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "BeaconSample",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine",
+				"OnlineSubsystemUtils"
+			]
+		}
+	]
+}
